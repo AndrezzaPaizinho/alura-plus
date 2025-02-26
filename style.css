@@ -120,6 +120,6 @@ body{
     color: var(--botao-azul);
 }
 .conteiner__botao:hover{
- background-color: aquamarine;
+ background-color:var(--botao-novo: #8FBC8F;);
  color: #00030C;   
 }
